@@ -1,3 +1,18 @@
+/*....OUTPUT....
+Enter The Size Of Array:
+5
+Enter Elements: 
+1
+2
+3
+4
+5
+Original Array: 
+1 2 3 4 5
+Reversed Array:
+5 4 3 2 1
+*/
+
 #include<stdio.h>
 
 int main(){

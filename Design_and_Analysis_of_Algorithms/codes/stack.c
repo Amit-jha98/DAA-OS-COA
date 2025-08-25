@@ -1,3 +1,17 @@
+/*....OUTPUT....
+Enter size of stack: 
+3
+Enter Elements in stack: 
+1
+2
+3
+Elements in stack are: 
+1 2 3
+Enter Number of elements you want to remove:
+2
+Elements in stack after removal are: 
+1
+*/
 #include<stdio.h>
 
 int main(){
