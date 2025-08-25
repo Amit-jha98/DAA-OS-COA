@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ **Module 1: Detailed Study Material (with Deep Theory)**
+## ✅ **Module 1**
 
 ---
 
